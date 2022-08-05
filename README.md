@@ -1,5 +1,3 @@
-# discord-fake-twitch-streamer
-this is a simple python code that makes yopur discord bio say that your streaming and people cant watch any link you put in the file
 custom discord twitch streaming link made by dexv
 made this cuz was bored really simple code and you can check it that its not a token grabber
 open install_requirements.cmd
