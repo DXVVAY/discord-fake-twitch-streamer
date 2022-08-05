@@ -1,6 +1,9 @@
 this is a python file that makes your disord bio say that your streaming on twitch and you can put a custom link so if people click on it they will go to your link
+
 custom discord twitch streaming link made by dexv
+
 made this cuz was bored really simple code and you can check it that its not a token grabber
+
 open install_requirements.cmd
 
 and then open main.py in visual studio code or other editor of your choice
